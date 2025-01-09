@@ -4,8 +4,7 @@ Software systems are only useful if they do what they are supposed to do. This i
 
 > Given a finite amount of time and resources, how can we validate that the system has an acceptable risk of costly or dangerous defects. [Bob Binder]
 
-Given the constraints above, the most prevalent quality vali![image](https://github.com/user-attachments/assets/97b6f3ff-5786-497a-99ba-c7fc83a5ad0d)
-dation approach in use today is automated testing (followed by code reviews). Unfortunately, as Dijkstra noted in 1969:
+Given the constraints above, the most prevalent quality validation approach in use today is automated testing (followed by code reviews). Unfortunately, as Dijkstra noted in 1969:
 
 > Program testing can be used to show the presence of bugs, but never to show their absence! [Edsger Dijkstra]
 
