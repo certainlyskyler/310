@@ -14,7 +14,7 @@ Ed Lazowska provides a great overview of the kinds of impact computer science ha
 
 Given that a computer will blindly execute any set of syntactically valid instructions it is given, it is extremely important that these instructions be correct. We have all experienced software failures (be them problems that cause a program to crash or require you to reboot your computer) and defects (where the program continues to execute but behaves incorrectly). While these failures and defects are frustrating, the pervasiveness and utility of software means that these problems can have much more serious (e.g., loss of life) or expensive (e.g., hundreds of millions of dollars) implications in some domains. 
 
-During his his 1972 Turing award lecture Dijkstra said,
+During his 1972 Turing Award lecture Dijkstra said,
 
 > As long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem.
 
@@ -45,7 +45,7 @@ Ultimately though, programming is only a small part of what software engineering
 
 This definition captures the range of input skills required to build software (scientific, economic, social, and practical knowledge), the tasks performed by software engineers themselves (specify, invent, design, build, validate, deploy, maintain, research, and improve), and the goals of the process (to build correct, reliable, and efficient systems).
 
-The most obvious difference between the definition of programming and software engineering is that programming itself really only captures the 'build' task that is only a small piece of the spectrum of software engineering tasks. While programming software is hard, and is an important and necessary part of the software engineering process, the tasks that come before (like figuring out what to build and how to do it) and after programming (like deploying, maintaining, and evolving an existing system) are often crucial for ensuring that programming effort is effectively applied.
+The most obvious difference between the definition of programming and software engineering is that programming itself really only captures the 'build' task, which is only a small piece of the spectrum of software engineering tasks. While programming software is hard, and is an important and necessary part of the software engineering process, the tasks that come before (like figuring out what to build and how to do it) and after programming (like deploying, maintaining, and evolving an existing system) are often crucial for ensuring that programming effort is effectively applied.
 
 One of the main goals of this course is to give you a deeper understanding and appreciation for the complexity involved in designing, building, and evolving high-quality software systems. To that end, we will be investigating many of the different dimensions of software engineering captured in the definition above.
 
